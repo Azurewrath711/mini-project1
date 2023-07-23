@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+*{margin: 0;}
+:root{
+    --main: rgb(233, 98, 49)
+}
+
+.header{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    size: calc(50%);
+}
+.navbar{
+    font-family: 'Poppins', sans-serif;
+}
+.herosectioncaption{
+    font-family: 'Poppins', sans-serif;
+    text-shadow: 2px 2px #155a2a;
+}
+.testimonial{
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 20px;
+    
+}
+body{
+    background-color: #378b29;
+background-image: linear-gradient(315deg, #378b29 0%, #ffffff 74%);
+    
+}
+.koi-care{
+    padding-top: 50px;
+    border: 10px;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+}
+.testimonialtext{
+    font-family: 'Poppins', sans-serif;
+}
+.footer{
+    font-family: 'Poppins', sans-serif;
+}
+.connected{
+    font-family: 'Poppins', sans-serif;
+}
+.carousel{
+    transition:(5.s ease-in-out right);
+}
+
+    
+
+@media only screen and (max-width: 600px){
+body{
+    font-size: 10px;
+}
+   
+} 
+.mission{
+    height: 500px;
+
+}
+.accordion{
+    height: 300px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.FAQ{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.accordion-body{
+    font-weight: lighter;
+}
+.card-text{
+    font-family: 'Poppins', sans-serif;
+}
+.card-title{
+    font-family: 'Poppins', sans-serif;
+}
+.calendar{
+    font-family: 'Poppins', sans-serif;
+}
+.koistock{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+    
+    
+    
